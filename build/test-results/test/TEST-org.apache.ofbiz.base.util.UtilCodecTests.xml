@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.ofbiz.base.util.UtilCodecTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-18T01:08:56" hostname="ROUSE-PC" time="0.211">
+  <properties/>
+  <testcase name="canonicalizeRevealsEscapedXSS" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.136"/>
+  <testcase name="testGetEncoder" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.001"/>
+  <testcase name="checkStringForHtmlStrictNoneDetectsXSS" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.009"/>
+  <testcase name="testCheckStringForHtmlStrictNone" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.016"/>
+  <testcase name="testCheckStringForHtmlSafe" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.048"/>
+  <system-out><![CDATA[2021-01-17 19:08:56,589 |Test worker          |UtilCodec                     |E| Canonicalization (format consistency, character escaping that is mixed or double, etc) error for attribute named [double-encoding], String [%2%353Cscript]: org.apache.ofbiz.base.util.UtilCodec$IntrusionException: Input validation failure
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

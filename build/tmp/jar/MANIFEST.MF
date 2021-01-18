@@ -1,0 +1,615 @@
+Manifest-Version: 1.0
+Implementation-Title: ofbiz
+Class-Path: \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\apache-
+ xerces\xercesImpl\2.9.1\7bc7e49ddfe4fb5f193ed37ecc96c12292c8ceb6\xerc
+ esImpl-2.9.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\c
+ om.google.zxing\core\3.3.1\bd5bb06f4ae0fef8e67044131272905eb8895230\c
+ ore-3.3.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.
+ googlecode.concurrentlinkedhashmap\concurrentlinkedhashmap-lru\1.4.2\
+ 2eaf3d3c9746d526ff7e5b93931d482c3887e6ac\concurrentlinkedhashmap-lru-
+ 1.4.2.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.goog
+ lecode.ez-vcard\ez-vcard\0.9.10\1997520f849718ec99a92aa67c17e408e5cca
+ 32a\ez-vcard-0.9.10.jar \C:\Users\Rouse\.gradle\caches\modules-2\file
+ s-2.1\com.googlecode.owasp-java-html-sanitizer\owasp-java-html-saniti
+ zer\20170515.1\2ac64ee731e71b8ce411b7ff306c35eae672f6dd\owasp-java-ht
+ ml-sanitizer-20170515.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\
+ files-2.1\com.googlecode.libphonenumber\libphonenumber\8.9.16\2b39841
+ ec352f439785ce97a1862cdb93ec77a35\libphonenumber-8.9.16.jar \C:\Users
+ \Rouse\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\60.2\e452
+ cba3caaf93b997ff543c7246a6da74ed70f1\icu4j-60.2.jar \C:\Users\Rouse\.
+ gradle\caches\modules-2\files-2.1\com.lowagie\itext\2.1.7\892bfb3e970
+ 74a61123b3b2d7caa2db112750864\itext-2.1.7.jar \C:\Users\Rouse\.gradle
+ \caches\modules-2\files-2.1\com.sun.mail\javax.mail\1.6.0\a055c648842
+ c4954c1f7db7254f45d9ad565e278\javax.mail-1.6.0.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\com.sun.syndication\com.springsource
+ .com.sun.syndication\0.9.0\2c8daab3471d3060d115cdcf4af2a88cb04744c1\c
+ om.springsource.com.sun.syndication-0.9.0.jar \C:\Users\Rouse\.gradle
+ \caches\modules-2\files-2.1\com.thoughtworks.xstream\xstream\1.4.10\d
+ fecae23647abc9d9fd0416629a4213a3882b101\xstream-1.4.10.jar \C:\Users\
+ Rouse\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.4\
+ c51c00206bb913cd8612b24abd9fa98ae89719b1\commons-cli-1.4.jar \C:\User
+ s\Rouse\.gradle\caches\modules-2\files-2.1\commons-net\commons-net\3.
+ 6\b71de00508dcb078d2b24b5fa7e538636de9b3da\commons-net-3.6.jar \C:\Us
+ ers\Rouse\.gradle\caches\modules-2\files-2.1\commons-validator\common
+ s-validator\1.6\e989d1e87cdd60575df0765ed5bac65c905d7908\commons-vali
+ dator-1.6.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\comm
+ ons-fileupload\commons-fileupload\1.3.3\4ff14d809195b711fd6bcc87e6777
+ f886730ca1\commons-fileupload-1.3.3.jar \C:\Users\Rouse\.gradle\cache
+ s\modules-2\files-2.1\de.odysseus.juel\juel-impl\2.2.7\97958467acef4c
+ 2b230b72354a4eefc66628dd99\juel-impl-2.2.7.jar \C:\Users\Rouse\.gradl
+ e\caches\modules-2\files-2.1\javax.el\javax.el-api\3.0.1-b04\8c0c970b
+ 8deae5054ff0bf4b17979c8181a506d3\javax.el-api-3.0.1-b04.jar \C:\Users
+ \Rouse\.gradle\caches\modules-2\files-2.1\javax.servlet\javax.servlet
+ -api\4.0.0\60200affc2fe0165136ed3690faf00b66aed581a\javax.servlet-api
+ -4.0.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\javax.s
+ ervlet.jsp\javax.servlet.jsp-api\2.3.2-b02\287387015b38bb4fc5d5f085c9
+ 38ab51bf82b00\javax.servlet.jsp-api-2.3.2-b02.jar \C:\Users\Rouse\.gr
+ adle\caches\modules-2\files-2.1\net.fortuna.ical4j\ical4j\1.0-rc3-atl
+ assian-11\cc4aa02f5cc8773876aad173517d20438b1b60ea\ical4j-1.0-rc3-atl
+ assian-11.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.
+ apache.ant\ant-junit\1.10.1\57b1c4a50a9095e95b3ce2ef8ccdceb945f7bb20\
+ ant-junit-1.10.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2
+ .1\org.apache.axis2\axis2-kernel\1.7.7\401761f60fa986199cbb7105594cf2
+ d0d85a2fbd\axis2-kernel-1.7.7.jar \C:\Users\Rouse\.gradle\caches\modu
+ les-2\files-2.1\org.apache.commons\commons-dbcp2\2.1.1\c4f4a76171671c
+ cf293be8995a498eab7fa8ed24\commons-dbcp2-2.1.1.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\org.apache.commons\commons-text\1.6\
+ ba72cf0c40cf701e972fe7720ae844629f4ecca2\commons-text-1.6.jar \C:\Use
+ rs\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.geronimo.compo
+ nents\geronimo-transaction\3.1.4\7db43d2032d5f38a47a39801903df8c97bd5
+ 4155\geronimo-transaction-3.1.4.jar \C:\Users\Rouse\.gradle\caches\mo
+ dules-2\files-2.1\org.apache.geronimo.specs\geronimo-jms_1.1_spec\1.1
+ .1\c872b46c601d8dc03633288b81269f9e42762cea\geronimo-jms_1.1_spec-1.1
+ .1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.
+ httpcomponents\httpclient-cache\4.5.4\b2035cd6dec9d6b8ace2cc9d0163998
+ 1960d60f0\httpclient-cache-4.5.4.jar \C:\Users\Rouse\.gradle\caches\m
+ odules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.10.0\fec5797a
+ 55b786184a537abd39c3fa1449d752d6\log4j-api-2.10.0.jar \C:\Users\Rouse
+ \.gradle\caches\modules-2\files-2.1\org.apache.shiro\shiro-core\1.4.0
+ \6d05bd17e057fc12d278bb367c27f9cb0f3dc197\shiro-core-1.4.0.jar \C:\Us
+ ers\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.tika\tika-cor
+ e\1.24.1\703e65fb300d1425d4ad7b68c21c7795bb7a95c3\tika-core-1.24.1.ja
+ r \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.tika\
+ tika-parsers\1.24.1\2ce8d709cef4ed6a1a51ff14ba15b2ba2e76f09\tika-pars
+ ers-1.24.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org
+ .apache.tomcat\tomcat-catalina-ha\9.0.36\f03ccc9516aafe87911808f35bcd
+ cbd231053311\tomcat-catalina-ha-9.0.36.jar \C:\Users\Rouse\.gradle\ca
+ ches\modules-2\files-2.1\org.apache.tomcat\tomcat-catalina\9.0.36\be3
+ b41b4ff4462db63be7043c96f51af2d6c1ef9\tomcat-catalina-9.0.36.jar \C:\
+ Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.tomcat\tomc
+ at-jasper\9.0.36\3a24d7f6bf3ea218f93f20e0748bc9b0e887611b\tomcat-jasp
+ er-9.0.36.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.
+ apache.tomcat\tomcat-tribes\9.0.36\2965eed78b72e01d7f4d31d799c690b2dd
+ 7c182b\tomcat-tribes-9.0.36.jar \C:\Users\Rouse\.gradle\caches\module
+ s-2\files-2.1\org.apache.xmlgraphics\fop\2.2\cc8a8ae39d215425e1dbec55
+ 52c64074d0a54b7f\fop-2.2.jar \C:\Users\Rouse\.gradle\caches\modules-2
+ \files-2.1\org.apache.xmlrpc\xmlrpc-client\3.1.3\e486ad917028b5226561
+ 0206fb5a1e2b5914b94b\xmlrpc-client-3.1.3.jar \C:\Users\Rouse\.gradle\
+ caches\modules-2\files-2.1\org.apache.xmlrpc\xmlrpc-server\3.1.3\e4dd
+ f1852cb162139230ef733223633e362cf301\xmlrpc-server-3.1.3.jar \C:\User
+ s\Rouse\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy
+ -all\2.4.13\7e410735a50e495323dd4855ddd13ea7dad23ac1\groovy-all-2.4.1
+ 3.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.freemark
+ er\freemarker\2.3.28\7200064467a935052f99d114c2c05c3d189bc6d6\freemar
+ ker-2.3.28.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org
+ .hamcrest\hamcrest-all\1.3\63a21ebc981131004ad02e0434e799fd7f3a8d5a\h
+ amcrest-all-1.3.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.
+ 1\org.owasp.esapi\esapi\2.1.0.1\8d35e0bad77067b534664cb408493136e086a
+ ae1\esapi-2.1.0.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-
+ 2.1\org.springframework\spring-test\5.0.2.RELEASE\a6fdd26c9a219581345
+ 22a5232e9f23929985f9\spring-test-5.0.2.RELEASE.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\org.zapodot\jackson-databind-java-op
+ tional\2.6.1\c323ff3dcd35ec5e059f709bb21172dfd958bb5b\jackson-databin
+ d-java-optional-2.6.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\fi
+ les-2.1\oro\oro\2.0.8\5592374f834645c4ae250f4c9fbb314c9369d698\oro-2.
+ 0.8.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\wsdl4j\wsd
+ l4j\1.6.3\6d106a6845a3d3477a1560008479312888e94f2f\wsdl4j-1.6.3.jar \
+ C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\net.lingala.zip4j\z
+ ip4j\2.6.4\b1edd95127caa3a6c38b75b092b9c4a3ab91b835\zip4j-2.6.4.jar \
+ C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.commons\
+ commons-imaging\1.0-alpha2\838bd680e85e4611cdc0a81c81174bb87927e255\c
+ ommons-imaging-1.0-alpha2.jar \C:\Users\Rouse\.gradle\caches\modules-
+ 2\files-2.1\batik\batik-svg-dom\1.6-1\99c4c49c1852b62396fc0c9777d48c0
+ e03f1dc74\batik-svg-dom-1.6-1.jar \C:\Users\Rouse\.gradle\caches\modu
+ les-2\files-2.1\de.odysseus.juel\juel-spi\2.2.7\ca146332a93720784f24a
+ 5a24bb71c6d545133bd\juel-spi-2.2.7.jar \C:\Users\Rouse\.gradle\caches
+ \modules-2\files-2.1\net.sf.barcode4j\barcode4j-fop-ext\2.1\38749ed6e
+ 6412628c45d5ba344a0ab796e6807f9\barcode4j-fop-ext-2.1.jar \C:\Users\R
+ ouse\.gradle\caches\modules-2\files-2.1\net.sf.barcode4j\barcode4j\2.
+ 1\4b38b2219c0d522fcea8238493f2ea3e238ef529\barcode4j-2.1.jar \C:\User
+ s\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.axis2\axis2-tra
+ nsport-http\1.7.7\5dcd16b65953e9d4835c99cc1c6fb36d23184b1c\axis2-tran
+ sport-http-1.7.7.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2
+ .1\org.apache.axis2\axis2-transport-local\1.7.7\68d4c3a6ac4154eec235b
+ d0c0631fdcd66d7122b\axis2-transport-local-1.7.7.jar \C:\Users\Rouse\.
+ gradle\caches\modules-2\files-2.1\org.apache.derby\derby\10.14.1.0\3b
+ cd8b1af3f8cd022d54d331e00064776be04f9c\derby-10.14.1.0.jar \C:\Users\
+ Rouse\.gradle\caches\modules-2\files-2.1\org.apache.geronimo.specs\ge
+ ronimo-jaxrpc_1.1_spec\1.1\b0b1d499b5c7f53ed65fa1aadd6cfaf743480e1b\g
+ eronimo-jaxrpc_1.1_spec-1.1.jar \C:\Users\Rouse\.gradle\caches\module
+ s-2\files-2.1\org.apache.logging.log4j\log4j-1.2-api\2.10.0\62e26af26
+ 12d1bd03aba1c7c087447f14033b7ba\log4j-1.2-api-2.10.0.jar \C:\Users\Ro
+ use\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j
+ -core\2.10.0\c90b597163cd28ab6d9687edd53db601b6ea75a1\log4j-core-2.10
+ .0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.
+ logging.log4j\log4j-jul\2.10.0\6840029dc3669abc9fbb113b8f0e3710d60890
+ 12\log4j-jul-2.10.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\file
+ s-2.1\org.apache.logging.log4j\log4j-slf4j-impl\2.10.0\8e4e0a30736175
+ e31c7f714d95032c1734cfbdea\log4j-slf4j-impl-2.10.0.jar \C:\Users\Rous
+ e\.gradle\caches\modules-2\files-2.1\org.codeartisans.thirdparties.sw
+ ing\batik-all\1.8pre-r1084380\2898c85b844ad4db731d8dbd7bac395bece5bea
+ d\batik-all-1.8pre-r1084380.jar \C:\Users\Rouse\.gradle\caches\module
+ s-2\files-2.1\bouncycastle\bcmail-jdk14\138\14ff2dfec8578f5f6838c4d6a
+ 77a86789afe5382\bcmail-jdk14-138.jar \C:\Users\Rouse\.gradle\caches\m
+ odules-2\files-2.1\bouncycastle\bcprov-jdk14\138\de366c3243a586eb3c0e
+ 2bcde1ed9bb1bfb985ff\bcprov-jdk14-138.jar \C:\Users\Rouse\.gradle\cac
+ hes\modules-2\files-2.1\javax.activation\activation\1.1\e6cb541461c28
+ 34bdea3eb920f1884d1eb508b50\activation-1.1.jar \C:\Users\Rouse\.gradl
+ e\caches\modules-2\files-2.1\org.jdom\com.springsource.org.jdom\1.0.0
+ \32e7389479349a9d30cab805d83486b1e865aeaa\com.springsource.org.jdom-1
+ .0.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\xmlpull\x
+ mlpull\1.1.3.1\2b8e230d2ab644e4ecaa94db7cdedbc40c805dfa\xmlpull-1.1.3
+ .1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\xpp3\xpp3_m
+ in\1.1.4c\19d4e90b43059058f6e056f794f0ea4030d60b86\xpp3_min-1.1.4c.ja
+ r \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\commons-digester
+ \commons-digester\1.8.1\3dec9b9c7ea9342d4dbe8c38560080d85b44a015\comm
+ ons-digester-1.8.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files
+ -2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c
+ 4cb522955686\commons-logging-1.2.jar \C:\Users\Rouse\.gradle\caches\m
+ odules-2\files-2.1\commons-collections\commons-collections\3.2.2\8ad7
+ 2fe39fa8c91eaaf12aadb21e0c3661fe26d5\commons-collections-3.2.2.jar \C
+ :\Users\Rouse\.gradle\caches\modules-2\files-2.1\junit\junit\4.11\4e0
+ 31bb61df09069aeb2bffb4019e7a5034a4ee0\junit-4.11.jar \C:\Users\Rouse\
+ .gradle\caches\modules-2\files-2.1\backport-util-concurrent\backport-
+ util-concurrent\3.1\682f7ac17fed79e92f8e87d8455192b63376347b\backport
+ -util-concurrent-3.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\fil
+ es-2.1\org.apache.ant\ant\1.10.1\591b690cc83d444fa9c9813a792aeaba412e
+ 4ab6\ant-1.10.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.
+ 1\org.apache.ws.commons.axiom\axiom-api\1.2.20\ec33988dce6ab4c1d15122
+ 208dae7b1fbc6c0ac4\axiom-api-1.2.20.jar \C:\Users\Rouse\.gradle\cache
+ s\modules-2\files-2.1\org.apache.ws.commons.axiom\axiom-impl\1.2.20\f
+ db6f7eb20dfaab2ee513e734defc7219aed046\axiom-impl-1.2.20.jar \C:\User
+ s\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.geronimo.specs\
+ geronimo-ws-metadata_2.0_spec\1.1.2\7be9f049b4f0f0cf045675be5a0ff709d
+ 57cbc6a\geronimo-ws-metadata_2.0_spec-1.1.2.jar \C:\Users\Rouse\.grad
+ le\caches\modules-2\files-2.1\javax.servlet\servlet-api\2.3\137a24e9f
+ 62973f01f16dd23fc1b5a9964fd9ef\servlet-api-2.3.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\org.apache.neethi\neethi\3.0.3\ee37a
+ 38bbf9f355ee88ba554a85c9220b75ba500\neethi-3.0.3.jar \C:\Users\Rouse\
+ .gradle\caches\modules-2\files-2.1\org.apache.woden\woden-core\1.0M10
+ \ffed89bc39eb7fce6b74765b3417c6844d8003a2\woden-core-1.0M10.jar \C:\U
+ sers\Rouse\.gradle\caches\modules-2\files-2.1\javax.ws.rs\jsr311-api\
+ 1.1.1\59033da2a1afd56af1ac576750a8d0b1830d59e6\jsr311-api-1.1.1.jar \
+ C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.commons\
+ commons-pool2\2.4.2\e5f4f28f19d57716fbc3989d7a357ebf1e454fea\commons-
+ pool2-2.4.2.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\or
+ g.apache.geronimo.specs\geronimo-j2ee-connector_1.6_spec\1.0\a1a1cb63
+ 5415af603ffba27987ffcd3422fb7801\geronimo-j2ee-connector_1.6_spec-1.0
+ .jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.sh
+ iro\shiro-lang\1.4.0\6895b5d14e7be7a77297336b037d7a7e79e858d6\shiro-l
+ ang-1.4.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.
+ apache.shiro\shiro-cache\1.4.0\ae1496cbdc4cce35c87d9014723863e049f9e2
+ b4\shiro-cache-1.4.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\fil
+ es-2.1\org.apache.shiro\shiro-crypto-hash\1.4.0\b767d3db10f01dfba79c0
+ 4cbc9e17eae0247b9c\shiro-crypto-hash-1.4.0.jar \C:\Users\Rouse\.gradl
+ e\caches\modules-2\files-2.1\org.apache.shiro\shiro-crypto-cipher\1.4
+ .0\78020924ddce7632daa3b9acb698167c240df623\shiro-crypto-cipher-1.4.0
+ .jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.sh
+ iro\shiro-config-core\1.4.0\7d7ede51d15d346d962da9a3743064ddc9163b1d\
+ shiro-config-core-1.4.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\
+ files-2.1\org.apache.shiro\shiro-config-ogdl\1.4.0\28c5f1338030eed8f9
+ 11f0a816a5ef2716f786a6\shiro-config-ogdl-1.4.0.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\org.apache.shiro\shiro-event\1.4.0\d
+ f4e83b5200940439e0c7ba4fc145902900e2cd\shiro-event-1.4.0.jar \C:\User
+ s\Rouse\.gradle\caches\modules-2\files-2.1\org.glassfish.jaxb\jaxb-ru
+ ntime\2.3.2\5528bc882ea499a09d720b42af11785c4fc6be2a\jaxb-runtime-2.3
+ .2.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.sun.act
+ ivation\jakarta.activation\1.2.1\8013606426a73d8ba6b568370877251e91a3
+ 8b89\jakarta.activation-1.2.1.jar \C:\Users\Rouse\.gradle\caches\modu
+ les-2\files-2.1\xerces\xercesImpl\2.12.0\f02c844149fd306601f20e0b3485
+ 3a670bef7fa2\xercesImpl-2.12.0.jar \C:\Users\Rouse\.gradle\caches\mod
+ ules-2\files-2.1\javax.annotation\javax.annotation-api\1.3.2\934c04d3
+ cfef185a8008e7bf34331b79730a9d43\javax.annotation-api-1.3.2.jar \C:\U
+ sers\Rouse\.gradle\caches\modules-2\files-2.1\org.gagravarr\vorbis-ja
+ va-tika\0.8\4ddbb27ac5884a0f0398a63d46a89d3bc87dc457\vorbis-java-tika
+ -0.8.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.talli
+ son\jmatio\1.5\517d932cc87a3b564f3f7a07ac347b725b619ab4\jmatio-1.5.ja
+ r \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.james
+ \apache-mime4j-core\0.8.3\1179b56c9919c1a8e20d3a528ee4c6cee19bcbe0\ap
+ ache-mime4j-core-0.8.3.jar \C:\Users\Rouse\.gradle\caches\modules-2\f
+ iles-2.1\org.apache.james\apache-mime4j-dom\0.8.3\e80733714eb6a70895b
+ fc74a9528c658504c2c83\apache-mime4j-dom-0.8.3.jar \C:\Users\Rouse\.gr
+ adle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1
+ .20\b8df472b31e1f17c232d2ad78ceb1c84e00c641b\commons-compress-1.20.ja
+ r \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.tukaani\xz\1
+ .8\c4f7d054303948eb6a4066194253886c8af07128\xz-1.8.jar \C:\Users\Rous
+ e\.gradle\caches\modules-2\files-2.1\com.epam\parso\2.0.11\3cd3dde9ac
+ e470e102bb344e05467ce308108a8e\parso-2.0.11.jar \C:\Users\Rouse\.grad
+ le\caches\modules-2\files-2.1\org.brotli\dec\0.1.2\c26a897ae0d524809e
+ ef1c786cc6183b4ddcc3b\dec-0.1.2.jar \C:\Users\Rouse\.gradle\caches\mo
+ dules-2\files-2.1\commons-codec\commons-codec\1.13\3f18e1aa31031d89db
+ 6f01ba05d501258ce69d2c\commons-codec-1.13.jar \C:\Users\Rouse\.gradle
+ \caches\modules-2\files-2.1\org.apache.pdfbox\pdfbox\2.0.19\8dfcfc278
+ b4b66e1a8b0e9e681b84ffe48da2c21\pdfbox-2.0.19.jar \C:\Users\Rouse\.gr
+ adle\caches\modules-2\files-2.1\org.apache.pdfbox\pdfbox-tools\2.0.19
+ \2d3fc470f325896e08f1cb231f746eaf018c2dac\pdfbox-tools-2.0.19.jar \C:
+ \Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.pdfbox\pre
+ flight\2.0.19\c7c0c9e9e243902139c5beae27350f600084c18a\preflight-2.0.
+ 19.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.
+ pdfbox\jempbox\1.8.16\1f41de81768ef84ca2d8cda4cb79e9272c8ee966\jempbo
+ x-1.8.16.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.b
+ ouncycastle\bcmail-jdk15on\1.65\2d229ca3a101a6b8350b7a4cd2cc3c2651a96
+ 02b\bcmail-jdk15on-1.65.jar \C:\Users\Rouse\.gradle\caches\modules-2\
+ files-2.1\org.bouncycastle\bcprov-jdk15on\1.65\320b989112f00a63a3bcfa
+ 5a98f31a4f865a20fa\bcprov-jdk15on-1.65.jar \C:\Users\Rouse\.gradle\ca
+ ches\modules-2\files-2.1\org.apache.poi\poi-scratchpad\4.1.2\1be379e9
+ 1d3d3fb0cd11425451acdbfb0d2264e7\poi-scratchpad-4.1.2.jar \C:\Users\R
+ ouse\.gradle\caches\modules-2\files-2.1\org.apache.poi\poi-ooxml\4.1.
+ 2\87d9a22aa9a7dd26e80c360e709f7ee02e32ab3b\poi-ooxml-4.1.2.jar \C:\Us
+ ers\Rouse\.gradle\caches\modules-2\files-2.1\com.healthmarketscience.
+ jackcess\jackcess\3.0.1\e753ed760d06a0b6849c02d3d4c603ae6c8e05c8\jack
+ cess-3.0.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com
+ .healthmarketscience.jackcess\jackcess-encrypt\3.0.0\24ee9302d731e7c6
+ 6e828049bb055ca710e29f03\jackcess-encrypt-3.0.0.jar \C:\Users\Rouse\.
+ gradle\caches\modules-2\files-2.1\org.ccil.cowan.tagsoup\tagsoup\1.2.
+ 1\5584627487e984c03456266d3f8802eb85a9ce97\tagsoup-1.2.1.jar \C:\User
+ s\Rouse\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\8.0.1\3f51
+ 99523fb95304b44563f5d56d9f5a07270669\asm-8.0.1.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\org.tallison\isoparser\1.9.41.2\797b
+ 2beb025f35a2e74573142dcfafc0b152fceb\isoparser-1.9.41.2.jar \C:\Users
+ \Rouse\.gradle\caches\modules-2\files-2.1\org.tallison\metadata-extra
+ ctor\2.13.0\a55a73a38e6a148d829994120e48bd82e16564a9\metadata-extract
+ or-2.13.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\de.l
+ 3s.boilerpipe\boilerpipe\1.1.0\f62cb75ed52455a9e68d1d05b84c500673340e
+ b2\boilerpipe-1.1.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\file
+ s-2.1\com.rometools\rome\1.12.2\eaa7a2025cd38a6678d96b2b78b4f7e68e3f8
+ e36\rome-1.12.2.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.
+ 1\org.gagravarr\vorbis-java-core\0.8\7e9937c2575cda2e3fc116415117c74f
+ 23e43fa6\vorbis-java-core-0.8.jar \C:\Users\Rouse\.gradle\caches\modu
+ les-2\files-2.1\com.googlecode.juniversalchardet\juniversalchardet\1.
+ 0.3\cd49678784c46aa8789c060538e0154013bb421b\juniversalchardet-1.0.3.
+ jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.codelibs\j
+ highlight\1.0.3\88831dce3d56aa53a1bfcba78518e8939b8d4779\jhighlight-1
+ .0.3.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.pff\j
+ ava-libpst\0.9.3\928a6698850cd89577d28201ff1ac443bb339d2b\java-libpst
+ -0.9.3.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.git
+ hub.junrar\junrar\4.0.0\93f9b74e1507db9c55c5bdd35369376a474e4db5\junr
+ ar-4.0.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.a
+ pache.cxf\cxf-rt-rs-client\3.3.6\ad3e7c36b8ae9396373f2bf5add19131cceb
+ 2e02\cxf-rt-rs-client-3.3.6.jar \C:\Users\Rouse\.gradle\caches\module
+ s-2\files-2.1\org.apache.commons\commons-exec\1.3\8dfb9facd0830a27b1b
+ 5f29f84593f0aeee7773b\commons-exec-1.3.jar \C:\Users\Rouse\.gradle\ca
+ ches\modules-2\files-2.1\org.apache.opennlp\opennlp-tools\1.9.2\e110d
+ 61f1c619bdf26ec4ad6103ab38fc24a781a\opennlp-tools-1.9.2.jar \C:\Users
+ \Rouse\.gradle\caches\modules-2\files-2.1\com.googlecode.json-simple\
+ json-simple\1.1.1\c9ad4a0850ab676c5c64461a05ca524cdfff59f1\json-simpl
+ e-1.1.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.gi
+ thub.openjson\openjson\1.0.12\9c0663c10b48a889709a2d125580a3f22b97576
+ 9\openjson-1.0.12.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-
+ 2.1\com.google.code.gson\gson\2.8.6\9180733b7df8542621dc12e21e87557e8
+ c99b8cb\gson-2.8.6.jar \C:\Users\Rouse\.gradle\caches\modules-2\files
+ -2.1\org.slf4j\jul-to-slf4j\1.7.28\c6f06c420ad62d3824b38a06dfdce9fb55
+ ba81ef\jul-to-slf4j-1.7.28.jar \C:\Users\Rouse\.gradle\caches\modules
+ -2\files-2.1\org.slf4j\jcl-over-slf4j\1.7.28\523cba836932d499fac5eb4f
+ 565437642769569a\jcl-over-slf4j-1.7.28.jar \C:\Users\Rouse\.gradle\ca
+ ches\modules-2\files-2.1\edu.ucar\netcdf4\4.5.5\675d63ecc857c50dd5085
+ 8011b670160aa30b62\netcdf4-4.5.5.jar \C:\Users\Rouse\.gradle\caches\m
+ odules-2\files-2.1\org.jdom\jdom2\2.0.6\6f14738ec2e9dd0011e343717fa62
+ 4a10f8aab64\jdom2-2.0.6.jar \C:\Users\Rouse\.gradle\caches\modules-2\
+ files-2.1\edu.ucar\grib\4.5.5\cfe552910e9a8d57ce71134796abb281a74ead1
+ 6\grib-4.5.5.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\c
+ om.beust\jcommander\1.78\a3927de9bd6f351429bcf763712c9890629d8f51\jco
+ mmander-1.78.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\n
+ et.java.dev.jna\jna\5.5.0\e0845217c4907822403912ad6828d8e0b256208\jna
+ -5.5.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.goo
+ gle.protobuf\protobuf-java\3.11.4\7ec0925cc3aef0335bbc7d57edfd42b0f86
+ f8267\protobuf-java-3.11.4.jar \C:\Users\Rouse\.gradle\caches\modules
+ -2\files-2.1\edu.ucar\cdm\4.5.5\af1748a3d024069cb7fd3fc2591efe806c914
+ 589\cdm-4.5.5.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\
+ org.quartz-scheduler\quartz\2.3.2\18a6d6b5a40b77bd060b34cb9f2acadc4ba
+ e7c8a\quartz-2.3.2.jar \C:\Users\Rouse\.gradle\caches\modules-2\files
+ -2.1\com.mchange\c3p0\0.9.5.5\37dfc3021e5589d65ff2ae0becf811510b87ab0
+ 1\c3p0-0.9.5.5.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1
+ \edu.ucar\httpservices\4.5.5\ee5f217be599e5e03f7f0e55e03f9e721a154f62
+ \httpservices-4.5.5.jar \C:\Users\Rouse\.gradle\caches\modules-2\file
+ s-2.1\org.apache.httpcomponents\httpmime\4.5.12\dbc2fd394152477bb1d17
+ 74bdcdde195e8c3a4ff\httpmime-4.5.12.jar \C:\Users\Rouse\.gradle\cache
+ s\modules-2\files-2.1\org.apache.sis.core\sis-utility\1.0\37f59318fa1
+ e5093f5131abf6e5ee8be0ebdb214\sis-utility-1.0.jar \C:\Users\Rouse\.gr
+ adle\caches\modules-2\files-2.1\org.apache.sis.storage\sis-netcdf\1.0
+ \aa181ec5975feaebb38bfaeef295550bdec48bde\sis-netcdf-1.0.jar \C:\User
+ s\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.sis.core\sis-me
+ tadata\1.0\8a31d969f98a539cc35ef86b1b7f28d364792393\sis-metadata-1.0.
+ jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.opengis\ge
+ oapi\3.0.1\a69b261841b0794b82b8d42fcd6e9a370eb62809\geoapi-3.0.1.jar 
+ \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\edu.usc.ir\sentime
+ nt-analysis-parser\0.1\20d1524a1270c1d26e3314d2ee71a12e6a29a27d\senti
+ ment-analysis-parser-0.1.jar \C:\Users\Rouse\.gradle\caches\modules-2
+ \files-2.1\com.fasterxml.jackson.core\jackson-databind\2.10.3\aae9262
+ 8b5447fa25af79871ca98668da6edd439\jackson-databind-2.10.3.jar \C:\Use
+ rs\Rouse\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.cor
+ e\jackson-annotations\2.10.3\f63b3b1da563767d04d2e4d3fc1ae0cdeffebe7\
+ jackson-annotations-2.10.3.jar \C:\Users\Rouse\.gradle\caches\modules
+ -2\files-2.1\org.apache.pdfbox\jbig2-imageio\3.0.3\1719861ff0b86162c5
+ b391fb4d1084c05ff72b35\jbig2-imageio-3.0.3.jar \C:\Users\Rouse\.gradl
+ e\caches\modules-2\files-2.1\com.github.jai-imageio\jai-imageio-core\
+ 1.4.0\fb6d79b929556362a241b2f65a04e538062f0077\jai-imageio-core-1.4.0
+ .jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.to
+ mcat\tomcat-coyote\9.0.36\b7d44b6e692c4f4475231f7b66858668999dd70\tom
+ cat-coyote-9.0.36.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-
+ 2.1\org.apache.tomcat\tomcat-servlet-api\9.0.36\da409d49cba1ad9c6ef72
+ c3d6751fe1466bdc7de\tomcat-servlet-api-9.0.36.jar \C:\Users\Rouse\.gr
+ adle\caches\modules-2\files-2.1\org.apache.tomcat\tomcat-juli\9.0.36\
+ 7a0f34222b39301021849f63dbc6ed778e0d8bd5\tomcat-juli-9.0.36.jar \C:\U
+ sers\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.tomcat\tomca
+ t-util\9.0.36\2259c9b9b842aeabe08a9cb22239db68bbe1ad47\tomcat-util-9.
+ 0.36.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apach
+ e.tomcat\tomcat-util-scan\9.0.36\a2ce1c206afb5ba3658725b0fb327a69fdf8
+ 0f72\tomcat-util-scan-9.0.36.jar \C:\Users\Rouse\.gradle\caches\modul
+ es-2\files-2.1\org.apache.tomcat\tomcat-jsp-api\9.0.36\7581d6c37cb5ce
+ a2f6ccd0c2635b930a46aa2595\tomcat-jsp-api-9.0.36.jar \C:\Users\Rouse\
+ .gradle\caches\modules-2\files-2.1\org.apache.tomcat\tomcat-annotatio
+ ns-api\9.0.36\accb87a9bffc36d717a8dc6bd6ae05982a172f8a\tomcat-annotat
+ ions-api-9.0.36.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.
+ 1\org.apache.tomcat\tomcat-api\9.0.36\3b5ca51c4214b73f0994969f7dcd491
+ 9909b24a\tomcat-api-9.0.36.jar \C:\Users\Rouse\.gradle\caches\modules
+ -2\files-2.1\org.apache.tomcat\tomcat-jni\9.0.36\d82419ee9d129bba41ca
+ 2a679a484891fcdf11c3\tomcat-jni-9.0.36.jar \C:\Users\Rouse\.gradle\ca
+ ches\modules-2\files-2.1\org.apache.tomcat\tomcat-jaspic-api\9.0.36\7
+ 69febcfd084207a80e9521188a096b0f023f3cb\tomcat-jaspic-api-9.0.36.jar 
+ \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.tomcat\
+ tomcat-el-api\9.0.36\2f0a6807400f5b299c03fe238d25ce3eb58d35c1\tomcat-
+ el-api-9.0.36.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\
+ org.eclipse.jdt\ecj\3.21.0\d06974eec06892e5594bdb8fbbc95cd81f1c57b2\e
+ cj-3.21.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.
+ apache.tomcat\tomcat-jasper-el\9.0.36\f485166836829706be07df3e0d97b96
+ 07b650f85\tomcat-jasper-el-9.0.36.jar \C:\Users\Rouse\.gradle\caches\
+ modules-2\files-2.1\org.apache.xmlgraphics\xmlgraphics-commons\2.2\89
+ f22650b8b8a5ac91207bf58190df852d97415a\xmlgraphics-commons-2.2.jar \C
+ :\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.xmlgraphi
+ cs\batik-svg-dom\1.9\c6535d0a6656f18706fbe68796cd803aae5d1ec6\batik-s
+ vg-dom-1.9.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org
+ .apache.xmlgraphics\batik-bridge\1.9\fb7509c68f90e64a45f8ceece187a211
+ 415640c1\batik-bridge-1.9.jar \C:\Users\Rouse\.gradle\caches\modules-
+ 2\files-2.1\org.apache.xmlgraphics\batik-awt-util\1.9\855cbcf158a0ae6
+ 2ce85f2705a9bfccd4e99ede7\batik-awt-util-1.9.jar \C:\Users\Rouse\.gra
+ dle\caches\modules-2\files-2.1\org.apache.xmlgraphics\batik-gvt\1.9\5
+ 8fc30896e7afdcc1e5af4e557fcc0e735c5072a\batik-gvt-1.9.jar \C:\Users\R
+ ouse\.gradle\caches\modules-2\files-2.1\org.apache.xmlgraphics\batik-
+ transcoder\1.9\46856c150c278ee2d0dfb400fcc09bd75d25aecb\batik-transco
+ der-1.9.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.ap
+ ache.xmlgraphics\batik-extension\1.9\2e1f5d9da672694274cb0f623f001119
+ 9aa57ef2\batik-extension-1.9.jar \C:\Users\Rouse\.gradle\caches\modul
+ es-2\files-2.1\org.apache.xmlgraphics\batik-ext\1.9\da90c9656f651df69
+ 1c602285aa1ba40463326c1\batik-ext-1.9.jar \C:\Users\Rouse\.gradle\cac
+ hes\modules-2\files-2.1\org.apache.avalon.framework\avalon-framework-
+ api\4.3.1\2dacadeb49bc14420990b1f28897d46f96e2181d\avalon-framework-a
+ pi-4.3.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.a
+ pache.avalon.framework\avalon-framework-impl\4.3.1\2d5f5a07fd14513ce6
+ d7a7bfaff69419c26dbd0b\avalon-framework-impl-4.3.1.jar \C:\Users\Rous
+ e\.gradle\caches\modules-2\files-2.1\org.apache.xmlrpc\xmlrpc-common\
+ 3.1.3\415daf1f1473a947452588906dc9f5b3575fb44d\xmlrpc-common-3.1.3.ja
+ r \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\commons-configur
+ ation\commons-configuration\1.10\2b36e4adfb66d966c5aef2d73deb6be71638
+ 9dc9\commons-configuration-1.10.jar \C:\Users\Rouse\.gradle\caches\mo
+ dules-2\files-2.1\commons-beanutils\commons-beanutils-core\1.8.3\7581
+ 2698e5e859f2cb587c622c4cdfcd61676426\commons-beanutils-core-1.8.3.jar
+  \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.1
+ 7\5af35056b4d257e4b64b9e8069c0746e8b08629f\log4j-1.2.17.jar \C:\Users
+ \Rouse\.gradle\caches\modules-2\files-2.1\xom\xom\1.2.5\4166493b9f04e
+ 91b858ba4150b28b4d197f8f8ea\xom-1.2.5.jar \C:\Users\Rouse\.gradle\cac
+ hes\modules-2\files-2.1\org.beanshell\bsh-core\2.0b4\495e25a99e29970f
+ fe8ba0b1d551e1d1a9991fc1\bsh-core-2.0b4.jar \C:\Users\Rouse\.gradle\c
+ aches\modules-2\files-2.1\org.owasp.antisamy\antisamy\1.5.3\7538ad2b1
+ afb74e74cc419e8c7b87abfd5526251\antisamy-1.5.3.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\org.springframework\spring-core\5.0.
+ 2.RELEASE\45b2958ab3fb022dd29f8b1c553ebf1c75a144aa\spring-core-5.0.2.
+ RELEASE.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\batik\
+ batik-dom\1.6-1\27983405f0871f28d3b9ab35b44e62610a60564a\batik-dom-1.
+ 6-1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\batik\bati
+ k-parser\1.6-1\c1c2441c96f28f95f920173f13b547e0fd745810\batik-parser-
+ 1.6-1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\avalon-f
+ ramework\avalon-framework-impl\4.2.0\4da1db18947eb6950abb7ad79253011b
+ 9aec0e48\avalon-framework-impl-4.2.0.jar \C:\Users\Rouse\.gradle\cach
+ es\modules-2\files-2.1\commons-httpclient\commons-httpclient\3.1\964c
+ d74171f427720480efdec40a7c7f6e58426a\commons-httpclient-3.1.jar \C:\U
+ sers\Rouse\.gradle\caches\modules-2\files-2.1\xml-apis\xml-apis-ext\1
+ .3.04\41a8b86b358e87f3f13cf46069721719105aff66\xml-apis-ext-1.3.04.ja
+ r \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.bouncycastle
+ \bctsp-jdk14\1.38\4821122f8390d15f4b5ee652621e2a2bb1f1bf16\bctsp-jdk1
+ 4-1.38.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.ham
+ crest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamc
+ rest-core-1.3.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\
+ org.apache.geronimo.specs\geronimo-activation_1.1_spec\1.1\f15af1b53f
+ ba7f23ce5e9de4fb57a88585aa9eee\geronimo-activation_1.1_spec-1.1.jar \
+ C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\jaxen\jaxen\1.1.6\3
+ f8c36d9a0578e8e98f030c662b69888b1430ac0\jaxen-1.1.6.jar \C:\Users\Rou
+ se\.gradle\caches\modules-2\files-2.1\org.apache.geronimo.specs\geron
+ imo-stax-api_1.0_spec\1.0.1\1c171093a8b43aa550c6050ac441abe713ebb4f2\
+ geronimo-stax-api_1.0_spec-1.0.1.jar \C:\Users\Rouse\.gradle\caches\m
+ odules-2\files-2.1\org.codehaus.woodstox\woodstox-core-asl\4.2.0\7a37
+ 84c65cfa5c0553f31d000b43346feb1f4ee3\woodstox-core-asl-4.2.0.jar \C:\
+ Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.shiro\shiro
+ -crypto-core\1.4.0\7049325bba697985eee924eda03cb7971af1b808\shiro-cry
+ pto-core-1.4.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1
+ \jakarta.xml.bind\jakarta.xml.bind-api\2.3.2\8d49996a4338670764d7ca4b
+ 85a1c4ccf7fe665d\jakarta.xml.bind-api-2.3.2.jar \C:\Users\Rouse\.grad
+ le\caches\modules-2\files-2.1\org.glassfish.jaxb\txw2\2.3.2\ce5be7da2
+ e442c25ec14c766cb60cb802741727b\txw2-2.3.2.jar \C:\Users\Rouse\.gradl
+ e\caches\modules-2\files-2.1\com.sun.istack\istack-commons-runtime\3.
+ 0.8\d6a97364045aa6b99bf2d3c566a3f98599c2d296\istack-commons-runtime-3
+ .0.8.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.jvnet
+ .staxex\stax-ex\1.8.1\78011e483a21102fb4858f3e8f269a677e50aa23\stax-e
+ x-1.8.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.su
+ n.xml.fastinfoset\FastInfoset\1.2.16\4eb6a0adad553bf759ffe86927df6f3b
+ 848c8bea\FastInfoset-1.2.16.jar \C:\Users\Rouse\.gradle\caches\module
+ s-2\files-2.1\org.apache.pdfbox\xmpbox\2.0.19\738145032257f2f1797bdc7
+ 5e4d964dd35841a8b\xmpbox-2.0.19.jar \C:\Users\Rouse\.gradle\caches\mo
+ dules-2\files-2.1\org.bouncycastle\bcpkix-jdk15on\1.65\c9507d93e4b453
+ 320b57d9ac21bdd67d65a00bbc\bcpkix-jdk15on-1.65.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\org.apache.poi\poi-ooxml-schemas\4.1
+ .2\550cc22a598c0b0a51d1f55f8371e83c1229802d\poi-ooxml-schemas-4.1.2.j
+ ar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.github.virt
+ uald\curvesapi\1.06\159dd2e8956459a4eb0a9a6ecda9004d8d289708\curvesap
+ i-1.06.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.tal
+ lison.xmp\xmpcore-shaded\6.1.10\4f3c0f614c5efc78661c1adb5922eccd47d99
+ bcc\xmpcore-shaded-6.1.10.jar \C:\Users\Rouse\.gradle\caches\modules-
+ 2\files-2.1\com.rometools\rome-utils\1.12.2\240dc40fb9333ac872319e7d3
+ 1178bffc63f7900\rome-utils-1.12.2.jar \C:\Users\Rouse\.gradle\caches\
+ modules-2\files-2.1\org.apache.cxf\cxf-rt-transports-http\3.3.6\e5939
+ dc3da573a05c5cc1c9318226faa9c00a3df\cxf-rt-transports-http-3.3.6.jar 
+ \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.cxf\cxf
+ -core\3.3.6\d0550751b3c42813ff32a95142f29eafc001ec28\cxf-core-3.3.6.j
+ ar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.cxf\
+ cxf-rt-frontend-jaxrs\3.3.6\5c330c35024dda07601b059cb68258b53fdd22fb\
+ cxf-rt-frontend-jaxrs-3.3.6.jar \C:\Users\Rouse\.gradle\caches\module
+ s-2\files-2.1\net.jcip\jcip-annotations\1.0\afba4942caaeaf46aab0b976a
+ fd57cc7c181467e\jcip-annotations-1.0.jar \C:\Users\Rouse\.gradle\cach
+ es\modules-2\files-2.1\org.itadaki\bzip2\0.9.1\47ca95f71e3ccae756c4a2
+ 4354d48069c58f475c\bzip2-0.9.1.jar \C:\Users\Rouse\.gradle\caches\mod
+ ules-2\files-2.1\edu.ucar\udunits\4.5.5\d8c8d65ade13666eedcf764889c69
+ 321c247f153\udunits-4.5.5.jar \C:\Users\Rouse\.gradle\caches\modules-
+ 2\files-2.1\joda-time\joda-time\2.2\a5f29a7acaddea3f4af307e8cf2d0cc82
+ 645fd7d\joda-time-2.2.jar \C:\Users\Rouse\.gradle\caches\modules-2\fi
+ les-2.1\net.sf.ehcache\ehcache-core\2.6.2\3baecd92015a9f8fe4cf51c8b5d
+ 3a5bddcdd3e86\ehcache-core-2.6.2.jar \C:\Users\Rouse\.gradle\caches\m
+ odules-2\files-2.1\com.mchange\mchange-commons-java\0.2.19\7a4bee38ea
+ 02bd7dee776869b19fb3f6861d6acf\mchange-commons-java-0.2.19.jar \C:\Us
+ ers\Rouse\.gradle\caches\modules-2\files-2.1\javax.measure\unit-api\1
+ .0\6b960260278588d7ff02fe376e5aad39a9c7440b\unit-api-1.0.jar \C:\User
+ s\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.sis.storage\sis
+ -storage\1.0\7604108ad33b9c0d70b90518a265b9bacc37c4c6\sis-storage-1.0
+ .jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.si
+ s.core\sis-referencing\1.0\cc09bc1cc25222a47660e3a217762fa8b4c66f36\s
+ is-referencing-1.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\files
+ -2.1\org.apache.ws.commons.util\ws-commons-util\1.0.2\3f478e6def772c1
+ 9d1053f61198fa1f6a6119238\ws-commons-util-1.0.2.jar \C:\Users\Rouse\.
+ gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.6\ce1ed
+ b914c94ebc388f086c6827e8bdeec71ac2\commons-lang-2.6.jar \C:\Users\Rou
+ se\.gradle\caches\modules-2\files-2.1\net.sourceforge.nekohtml\nekoht
+ ml\1.9.16\61e35204e5a8fdb864152f84e2e3b33ab56f50ab\nekohtml-1.9.16.ja
+ r \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.springframew
+ ork\spring-jcl\5.0.2.RELEASE\212a0bdd54e026641cf527aeb8e578f86e402bf1
+ \spring-jcl-5.0.2.RELEASE.jar \C:\Users\Rouse\.gradle\caches\modules-
+ 2\files-2.1\batik\batik-css\1.6-1\9433ba160f0b7ca6640f750decebd99fe98
+ dacd3\batik-css-1.6-1.jar \C:\Users\Rouse\.gradle\caches\modules-2\fi
+ les-2.1\batik\batik-xml\1.6-1\4f2c18a0d41b8804e6fd24f183a567b41c928ed
+ 0\batik-xml-1.6-1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-
+ 2.1\batik\batik-awt-util\1.6-1\590750cc8d6a1ba0189b437172b6444578d79c
+ 99\batik-awt-util-1.6-1.jar \C:\Users\Rouse\.gradle\caches\modules-2\
+ files-2.1\org.bouncycastle\bcprov-jdk14\1.38\de366c3243a586eb3c0e2bcd
+ e1ed9bb1bfb985ff\bcprov-jdk14-1.38.jar \C:\Users\Rouse\.gradle\caches
+ \modules-2\files-2.1\org.bouncycastle\bcmail-jdk14\1.38\14ff2dfec8578
+ f5f6838c4d6a77a86789afe5382\bcmail-jdk14-1.38.jar \C:\Users\Rouse\.gr
+ adle\caches\modules-2\files-2.1\org.apache.xmlbeans\xmlbeans\3.1.0\6d
+ ac1f897dfb3e3f17fc79b18a3353b2e51c464e\xmlbeans-3.1.0.jar \C:\Users\R
+ ouse\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\6.1.10\
+ 7703eea153ccf2f43b6962521c5ad67485cd5272\xmpcore-6.1.10.jar \C:\Users
+ \Rouse\.gradle\caches\modules-2\files-2.1\com.fasterxml.woodstox\wood
+ stox-core\5.0.3\10aa199207fda142eff01cd61c69244877d71770\woodstox-cor
+ e-5.0.3.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\jakart
+ a.ws.rs\jakarta.ws.rs-api\2.1.5\e45d7f94d7406489755d911e63c216b4a3210
+ 374\jakarta.ws.rs-api-2.1.5.jar \C:\Users\Rouse\.gradle\caches\module
+ s-2\files-2.1\org.apache.cxf\cxf-rt-security\3.3.6\2d4da1bfcf6c46c71a
+ 875ebfbcd3418e7ba58d8a\cxf-rt-security-3.3.6.jar \C:\Users\Rouse\.gra
+ dle\caches\modules-2\files-2.1\org.apache.sis.core\sis-feature\1.0\41
+ 78a349ce0c14bc442d97ed43c13a9f6b6b53e8\sis-feature-1.0.jar \C:\Users\
+ Rouse\.gradle\caches\modules-2\files-2.1\batik\batik-util\1.6-1\7bea0
+ 185bb630bca235ffa904b1a03e8a4786a45\batik-util-1.6-1.jar \C:\Users\Ro
+ use\.gradle\caches\modules-2\files-2.1\jakarta.activation\jakarta.act
+ ivation-api\1.2.1\562a587face36ec7eff2db7f2fc95425c6602bc1\jakarta.ac
+ tivation-api-1.2.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files
+ -2.1\batik\batik-gui-util\1.6-1\4891720f542bac354d72f259ec930cab7329d
+ 1f8\batik-gui-util-1.6-1.jar \C:\Users\Rouse\.gradle\caches\modules-2
+ \files-2.1\batik\batik-ext\1.6-1\7f6ad5c298de4f24b9a104b721e86798f5e2
+ 216c\batik-ext-1.6-1.jar \C:\Users\Rouse\.gradle\caches\modules-2\fil
+ es-2.1\xml-apis\xmlParserAPIs\2.0.2\d745687ae17671f6709c050e491b16530
+ 767d997\xmlParserAPIs-2.0.2.jar \C:\Users\Rouse\.gradle\caches\module
+ s-2\files-2.1\org.jsoup\jsoup\1.13.1\f9577f3732bb7caa4fee8aba5053158f
+ 4010c118\jsoup-1.13.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\fi
+ les-2.1\commons-io\commons-io\2.6\815893df5f31da2ece4040fe0a12fd44b57
+ 7afaf\commons-io-2.6.jar \C:\Users\Rouse\.gradle\caches\modules-2\fil
+ es-2.1\org.apache.geronimo.specs\geronimo-jta_1.1_spec\1.1.1\aabab316
+ 5b8ea936b9360abbf448459c0d04a5a4\geronimo-jta_1.1_spec-1.1.1.jar \C:\
+ Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.commons\com
+ mons-lang3\3.10\e155460aaf5b464062a09c3923f089ce99128a17\commons-lang
+ 3-3.10.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apa
+ che.poi\poi\4.1.2\964bf41cf68bce08e4ef6b2279b559fdf8d454f4\poi-4.1.2.
+ jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.com
+ mons\commons-math3\3.6.1\e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf\com
+ mons-math3-3.6.1.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2
+ .1\com.zaxxer\SparseBitSet\1.2\8467c813d442837fcaeddbc42cf5c5359fab49
+ 33\SparseBitSet-1.2.jar \C:\Users\Rouse\.gradle\caches\modules-2\file
+ s-2.1\com.google.guava\guava\28.2-jre\8ec9ed76528425762174f0011ce8f74
+ ad845b756\guava-28.2-jre.jar \C:\Users\Rouse\.gradle\caches\modules-2
+ \files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b
+ 0849546c88bac1292c9\failureaccess-1.0.1.jar \C:\Users\Rouse\.gradle\c
+ aches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-em
+ pty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4a
+ c629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar \
+ C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.google.code.fin
+ dbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.
+ 0.2.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.checke
+ rframework\checker-qual\2.10.0\5786699a0cb71f9dc32e6cca1d665eef07a088
+ 2f\checker-qual-2.10.0.jar \C:\Users\Rouse\.gradle\caches\modules-2\f
+ iles-2.1\com.google.errorprone\error_prone_annotations\2.3.4\dac170e4
+ 594de319655ffb62f41cbd6dbb5e601e\error_prone_annotations-2.3.4.jar \C
+ :\Users\Rouse\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2
+ objc-annotations\1.3\ba035118bc8bac37d7eff77700720999acd9986d\j2objc-
+ annotations-1.3.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.
+ 1\org.apache.httpcomponents\httpclient\4.5.12\4023a2a80b64c25926911fa
+ f350b50cd2a29220f\httpclient-4.5.12.jar \C:\Users\Rouse\.gradle\cache
+ s\modules-2\files-2.1\org.apache.commons\commons-csv\1.8\37ca9a9aa2d4
+ be2599e55506a6d3170dd7a3df4\commons-csv-1.8.jar \C:\Users\Rouse\.grad
+ le\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core
+ \2.10.3\f7ee7b55c7d292ac72fbaa7648c089f069c938d2\jackson-core-2.10.3.
+ jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.xml
+ graphics\batik-dom\1.9\96e8edbf08358f84f7c9dc5778797203f0feb59c\batik
+ -dom-1.9.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.a
+ pache.xmlgraphics\batik-parser\1.9\1f57aca8fc9f47431bf637a34097e37974
+ 58a211\batik-parser-1.9.jar \C:\Users\Rouse\.gradle\caches\modules-2\
+ files-2.1\org.apache.xmlgraphics\batik-util\1.9\c96247c6b0b4909b0a515
+ 577f67622e9190b8f8\batik-util-1.9.jar \C:\Users\Rouse\.gradle\caches\
+ modules-2\files-2.1\org.apache.xmlgraphics\batik-anim\1.9\bf5a87c6647
+ e4b0c454facc0278c64f4199717fc\batik-anim-1.9.jar \C:\Users\Rouse\.gra
+ dle\caches\modules-2\files-2.1\org.apache.xmlgraphics\batik-script\1.
+ 9\4476562c724df213cd44d4ee292e1438d04cb7a7\batik-script-1.9.jar \C:\U
+ sers\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.xmlgraphics\
+ batik-xml\1.9\ea56fceb9d20e5edf416651135e027fc8fbdb45f\batik-xml-1.9.
+ jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.apache.xml
+ graphics\batik-svggen\1.9\2c401640b2006df659df1fd21888c7b8c3d3ecec\ba
+ tik-svggen-1.9.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1
+ \org.apache.xmlgraphics\batik-constants\1.9\24cae622672dedddd18951b19
+ 3a83c12bfe33241\batik-constants-1.9.jar \C:\Users\Rouse\.gradle\cache
+ s\modules-2\files-2.1\org.apache.xmlgraphics\batik-i18n\1.9\c83bf0176
+ 7ec26ad24df7277d2dc845c3f4fe0f2\batik-i18n-1.9.jar \C:\Users\Rouse\.g
+ radle\caches\modules-2\files-2.1\org.apache.ant\ant-launcher\1.10.1\7
+ 811ccc3f0d8612e402f47581915c34b2bfa8c76\ant-launcher-1.10.1.jar \C:\U
+ sers\Rouse\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8
+ .0-alpha2\34fa1d87256bbdb376ae7f6fa7e479610cd07dce\slf4j-api-1.8.0-al
+ pha2.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\commons-b
+ eanutils\commons-beanutils\1.9.3\c845703de334ddc6b4b3cd26835458cb1cba
+ 1f3d\commons-beanutils-1.9.3.jar \C:\Users\Rouse\.gradle\caches\modul
+ es-2\files-2.1\xml-apis\xml-apis\2.0.2\3136ca936f64c9d68529f048c2618b
+ d356bf85c9\xml-apis-2.0.2.jar \C:\Users\Rouse\.gradle\caches\modules-
+ 2\files-2.1\org.apache.pdfbox\fontbox\2.0.19\b8b3873aacde51f1a3f4a052
+ b236de828867d000\fontbox-2.0.19.jar \C:\Users\Rouse\.gradle\caches\mo
+ dules-2\files-2.1\com.zaxxer\HikariCP-java7\2.4.13\3e441eddedb374d4de
+ 8e3abbb0c90997f51cc97b\HikariCP-java7-2.4.13.jar \C:\Users\Rouse\.gra
+ dle\caches\modules-2\files-2.1\org.apache.xmlgraphics\batik-css\1.9\3
+ eb0bdc9dedd2e33e7ace50e01eab16741fcb689\batik-css-1.9.jar \C:\Users\R
+ ouse\.gradle\caches\modules-2\files-2.1\org.apache.ws.xmlschema\xmlsc
+ hema-core\2.2.5\789b4ad32ad7ff021c7731fa43d324c0ce8105f2\xmlschema-co
+ re-2.2.5.jar \C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\org.c
+ odehaus.woodstox\stax2-api\3.1.4\ac19014b1e6a7c08aad07fe114af792676b6
+ 85b7\stax2-api-3.1.4.jar \C:\Users\Rouse\.gradle\caches\modules-2\fil
+ es-2.1\org.apache.commons\commons-collections4\4.4\62ebe7544cb7164d87
+ e0637a2a6a2bdc981395e8\commons-collections4-4.4.jar \C:\Users\Rouse\.
+ gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\
+ 4.4.13\853b96d3afbb7bf8cc303fe27ee96836a10c1834\httpcore-4.4.13.jar \
+ C:\Users\Rouse\.gradle\caches\modules-2\files-2.1\xalan\xalan\2.7.2\d
+ 55d3f02a56ec4c25695fe67e1334ff8c2ecea23\xalan-2.7.2.jar \C:\Users\Rou
+ se\.gradle\caches\modules-2\files-2.1\xalan\serializer\2.7.2\24247f3b
+ b052ee068971393bdb83e04512bb1c3c\serializer-2.7.2.jar 
+Main-Class: org.apache.ofbiz.base.start.Start
+

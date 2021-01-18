@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.ofbiz.common.GetLocaleListTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-18T01:08:56" hostname="ROUSE-PC" time="1.682">
+  <properties/>
+  <testcase name="frenchLocaleName" classname="org.apache.ofbiz.common.GetLocaleListTests" time="1.449"/>
+  <testcase name="frenchLocaleString" classname="org.apache.ofbiz.common.GetLocaleListTests" time="0.117"/>
+  <testcase name="frenchNoDuplicates" classname="org.apache.ofbiz.common.GetLocaleListTests" time="0.115"/>
+  <system-out><![CDATA[2021-01-17 19:08:57,564 |Test worker          |ScriptUtil                    |I| The following 2 scripting engines were found:
+2021-01-17 19:08:57,564 |Test worker          |ScriptUtil                    |I| Engine name: Oracle Nashorn
+2021-01-17 19:08:57,565 |Test worker          |ScriptUtil                    |I|   Version: 1.8.0_161
+2021-01-17 19:08:57,565 |Test worker          |ScriptUtil                    |I|   Language: ECMAScript
+2021-01-17 19:08:57,565 |Test worker          |ScriptUtil                    |I|   Engine supports the following extensions:
+2021-01-17 19:08:57,565 |Test worker          |ScriptUtil                    |I|     js
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|   Engine has the following short names:
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|     nashorn
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|     Nashorn
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|     js
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|     JS
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|     JavaScript
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|     javascript
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|     ECMAScript
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|     ecmascript
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I| Engine name: Groovy Scripting Engine
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|   Version: 2.0
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|   Language: Groovy
+2021-01-17 19:08:57,566 |Test worker          |ScriptUtil                    |I|   Engine supports the following extensions:
+2021-01-17 19:08:57,567 |Test worker          |ScriptUtil                    |I|     groovy
+2021-01-17 19:08:57,567 |Test worker          |ScriptUtil                    |I|   Engine has the following short names:
+2021-01-17 19:08:57,567 |Test worker          |ScriptUtil                    |I|     groovy
+2021-01-17 19:08:57,567 |Test worker          |ScriptUtil                    |I|     Groovy
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

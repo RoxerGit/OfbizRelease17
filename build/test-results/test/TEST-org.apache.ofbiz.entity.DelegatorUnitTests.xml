@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.ofbiz.entity.DelegatorUnitTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-18T01:08:58" hostname="ROUSE-PC" time="1.682">
+  <properties/>
+  <testcase name="delegatorCreationUsingConstructorFailsIfConfigurationIsMissing" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="1.059"/>
+  <testcase name="delegatorCreationUsingFactoryGetDelegator" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.618"/>
+  <testcase name="delegatorCreationUsingFactoryReturnsNullIfConfigurationIsMissing" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.001"/>
+  <testcase name="delegatorCreationUsingFactoryGetInstance" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.002"/>
+  <testcase name="delegatorCreationUsingConstructor" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.002"/>
+  <system-out><![CDATA[2021-01-17 19:08:58,747 |Test worker          |UtilXml                       |W| [UtilXml.LocalResolver.resolveEntity] could not find LOCAL DTD/Schema with publicId [null] and the file/resource is [entity-config.xsd]
+2021-01-17 19:08:59,402 |delegator-startup-1  |DelegatorFactoryImpl          |I| Creating new delegator [default] (delegator-startup-1)
+2021-01-17 19:08:59,409 |delegator-startup-1  |ModelReader                   |I| Finished loading entities; #Entities=0 #ViewEntities=0 #Fields=0 #Relationships=0 #AutoRelationships=0
+2021-01-17 19:08:59,415 |delegator-startup-1  |GenericDelegator              |I| Doing entity definition check...
+2021-01-17 19:08:59,418 |delegator-startup-1  |ModelEntityChecker            |I| [initReservedWords] array length = 1025
+2021-01-17 19:08:59,421 |OFBiz-batch-1        |GenericDelegator              |I| Delegator "default" initializing helper "localderby" for entity group "org.apache.ofbiz".
+2021-01-17 19:08:59,429 |OFBiz-batch-1        |UtilXml                       |W| [UtilXml.LocalResolver.resolveEntity] could not find LOCAL DTD/Schema with publicId [null] and the file/resource is [entity-config.xsd]
+2021-01-17 19:08:59,682 |OFBiz-batch-1        |UtilXml                       |W| [UtilXml.LocalResolver.resolveEntity] could not find LOCAL DTD/Schema with publicId [null] and the file/resource is [fieldtypemodel.xsd]
+2021-01-17 19:08:59,917 |OFBiz-batch-1        |GenericDelegator              |I| Doing database check as requested in entityengine.xml with addMissing=true
+2021-01-17 19:09:00,016 |Test worker          |DelegatorFactoryImpl          |I| Creating new delegator [delegatorNameWithNoConfiguration] (Test worker)
+2021-01-17 19:09:00,016 |Test worker          |DelegatorFactoryImpl          |I| Creating new delegator [default] (Test worker)
+2021-01-17 19:09:00,016 |Test worker          |GenericDelegator              |I| Doing entity definition check...
+2021-01-17 19:09:00,016 |Test worker          |ModelEntityChecker            |I| [initReservedWords] array length = 1025
+2021-01-17 19:09:00,017 |OFBiz-batch-2        |GenericDelegator              |I| Delegator "default" initializing helper "localderby" for entity group "org.apache.ofbiz".
+2021-01-17 19:09:00,017 |OFBiz-batch-2        |GenericDelegator              |I| Doing database check as requested in entityengine.xml with addMissing=true
+2021-01-17 19:09:00,017 |Test worker          |DelegatorFactoryImpl          |I| Creating new delegator [default] (Test worker)
+2021-01-17 19:09:00,017 |Test worker          |GenericDelegator              |I| Doing entity definition check...
+2021-01-17 19:09:00,017 |Test worker          |ModelEntityChecker            |I| [initReservedWords] array length = 1025
+2021-01-17 19:09:00,017 |OFBiz-batch-2        |GenericDelegator              |I| Delegator "default" initializing helper "localderby" for entity group "org.apache.ofbiz".
+2021-01-17 19:09:00,018 |OFBiz-batch-2        |GenericDelegator              |I| Doing database check as requested in entityengine.xml with addMissing=true
+2021-01-17 19:09:00,018 |Test worker          |GenericDelegator              |I| Doing entity definition check...
+2021-01-17 19:09:00,018 |Test worker          |ModelEntityChecker            |I| [initReservedWords] array length = 1025
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
